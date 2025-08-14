@@ -14,4 +14,4 @@ Functions are things that perform actions or calculate outputs(or both).
 
 ### 2. String Formatting
 This is a python feature. It is commonly used to embed values stored in variables, inside strings.
-f-string and format() are used for string formatting in Python. 
+f-string and format() are used for string formatting in Python.
