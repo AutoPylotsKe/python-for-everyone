@@ -22,5 +22,11 @@ NOTE: Input functions by default outputs strings and you will need to extend it 
 
 ### 4. Lists, Tuples and Sets
 These are collections in python that allow us to store multiple values in a variable
+    list = ["Python", "Java", "Javascript"]
+    tuples = ("Python", "Java", "Javascript")
+    sets = {"Python", "Java", "Javascript"}
+
+### 5. Set Operations
+Look into functions used with sets: union, difference and intersection. 
 
 
