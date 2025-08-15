@@ -17,7 +17,10 @@ This is a python feature. It is commonly used to embed values stored in variable
 f-string and format() are used for string formatting in Python.
 
 ### 3. Getting User Input
-The input functions is useful in gaining user input and it can later be stored in a variabled and accessed through the print function. 
+The input functions are useful in gaining user input and it can later be stored in a variabled and accessed through the print function. 
 NOTE: Input functions by default outputs strings and you will need to extend it using int to convert the input into an integer and perform math operations.
+
+### 4. Lists, Tuples and Sets
+These are collections in python that allow us to store multiple values in a variable
 
 
